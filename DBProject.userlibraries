@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="groovy-5.0.0-alpha-1">
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-astbuilder-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-datetime-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-cli-picocli-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-cli-commons-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-contracts-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-ant-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-dateutil-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-docgenerator-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-groovydoc-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-jmx-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-console-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-jsr223-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-ginq-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-json-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-macro-library-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-nio-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-servlet-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-macro-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-sql-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-groovysh-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-test-junit5-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-testng-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-test-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-toml-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-typecheckers-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-templates-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-swing-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-xml-5.0.0-alpha-1.jar" />
+    <archive path="C:/Users/LENOVO/DBProject/lib/groovy-5.0.0-alpha-1.jar" />
+  </library>
+</eclipse-userlibraries>
+
